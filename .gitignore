@@ -1,5 +1,5 @@
 # Ignorar arquivos de configuração sensíveis
-.streamlit/secrets.toml
+.streamlit\secrets.toml
 
 # Ignorar caches do Python
 __pycache__/
@@ -9,4 +9,4 @@ __pycache__/
 clientes.db
 
 # Ignorar outros arquivos sensíveis ou específicos
-files/pedidos.csv
+files\pedidos.csv
