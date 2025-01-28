@@ -1,5 +1,12 @@
-**\__pycache__\**
+# Ignorar arquivos de configuração sensíveis
+.streamlit/secrets.toml
+
+# Ignorar caches do Python
+__pycache__/
+*.pyc
+
+# Ignorar bancos de dados locais
 clientes.db
-produtos.db\
-config.yaml
-.streamlit\secrets.toml
+
+# Ignorar outros arquivos sensíveis ou específicos
+files/pedidos.csv
