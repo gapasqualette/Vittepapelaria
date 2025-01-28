@@ -1,0 +1,19 @@
+[theme]
+# Tema Escuro 
+base = "dark"
+
+# Widgets Highlight
+primaryColor="#9e366d"
+
+# Pages Background
+backgroundColor="#ffffff"
+
+# Sidebar and widgets
+secondaryBackgroundColor="#ffffff"
+
+textColor="#000000"
+font="serif"
+
+[client]
+
+showSidebarNavigation = false

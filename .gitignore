@@ -1,0 +1,5 @@
+**\__pycache__\**
+clientes.db
+produtos.db\
+config.yaml
+.streamlit\secrets.toml
